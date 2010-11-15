@@ -1,0 +1,1213 @@
+Tniceride
+v7
+r0
+t311547898.685329
+cCheck dependencies
+cProcessInfoPlistFile /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/Info.plist niceride-Info.plist
+cCompileXIB /Users/williaed/Nice-Ride-Project/niceride/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/niceride.app/blocked.png blocked.png
+cCpResource build/Debug-iphonesimulator/niceride.app/special_event.png special_event.png
+cCpResource build/Debug-iphonesimulator/niceride.app/upcoming.png upcoming.png
+cCpResource build/Debug-iphonesimulator/niceride.app/activated.png activated.png
+cCpResource build/Debug-iphonesimulator/niceride.app/logo.png logo.png
+cCpResource build/Debug-iphonesimulator/niceride.app/ScreenSnapz.png ScreenSnapz.png
+cCpResource build/Debug-iphonesimulator/niceride.app/bevel.png bevel.png
+cCpResource build/Debug-iphonesimulator/niceride.app/arrowR.png arrowR.png
+cCpResource build/Debug-iphonesimulator/niceride.app/arrowL.png arrowL.png
+cCpResource build/Debug-iphonesimulator/niceride.app/circl137x35.png circl137x35.png
+cCompileXIB /Users/williaed/Nice-Ride-Project/niceride/apps.xib
+cCpResource build/Debug-iphonesimulator/niceride.app/stationmap.png stationmap.png
+cCpResource build/Debug-iphonesimulator/niceride.app/tab4.png tab4.png
+cCpResource build/Debug-iphonesimulator/niceride.app/background.png background.png
+cCpResource build/Debug-iphonesimulator/niceride.app/back.png back.png
+cCpResource build/Debug-iphonesimulator/niceride.app/buttonnice.png buttonnice.png
+cCpResource build/Debug-iphonesimulator/niceride.app/buttonnice2.png buttonnice2.png
+cCpResource build/Debug-iphonesimulator/niceride.app/niceride57.png niceride57.png
+cCpResource build/Debug-iphonesimulator/niceride.app/cashregisterx.wav cashregisterx.wav
+cProcessPCH /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch.gch niceride_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-ffnfbhyhnazahgaquwgimezzoxtk/niceride_Prefix.pch.gch niceride_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/main.o /Users/williaed/Nice-Ride-Project/niceride/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/nicerideAppDelegate.o /Users/williaed/Nice-Ride-Project/niceride/Classes/nicerideAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/MainViewController.o /Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CTidy.o /Users/williaed/Nice-Ride-Project/niceride/Classes/Tidy/CTidy.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLDocument_CreationExtensions.o /Users/williaed/Nice-Ride-Project/niceride/Classes/Creation/CXMLDocument_CreationExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode_CreationExtensions.o /Users/williaed/Nice-Ride-Project/niceride/Classes/Creation/CXMLNode_CreationExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode.o /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode_XPathExtensions.o /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode_XPathExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode_PrivateExtensions.o /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode_PrivateExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLElement.o /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLElement_ElementTreeExtensions.o /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement_ElementTreeExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLElement_CreationExtensions.o /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement_CreationExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLDocument.o /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLDocument_PrivateExtensions.o /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument_PrivateExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/MyAnnotation.o /Users/williaed/Nice-Ride-Project/niceride/Classes/MyAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/MyPinAnnotationView.o /Users/williaed/Nice-Ride-Project/niceride/Classes/MyPinAnnotationView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/SecondViewController.o /Users/williaed/Nice-Ride-Project/niceride/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/ExcelltechAppsController.o /Users/williaed/Nice-Ride-Project/niceride/Classes/ExcelltechAppsController.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cLd /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/niceride normal i386
+cGenerateDSYMFile /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app.dSYM /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/niceride
+cTouch /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C5A5EAD00000000000D2090
+t1280990893
+s860304
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004C5A5EA10000000000000703
+t1280990881
+s1795
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FF1000000000006B7E0
+t1282158577
+s440288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManagerDelegate.h
+c000000004C6C2FEA0000000000000B28
+t1282158570
+s2856
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FEA00000000000001D0
+t1282158570
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKMapView.h
+c000000004C6C301100000000000023B9
+t1282158609
+s9145
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C301100000000000002FE
+t1282158609
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C303B000000000016DD50
+t1282158651
+s1498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2/libxml/parser.h
+c000000004C5A4D3F00000000000098A9
+t1280986431
+s39081
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2/libxml/tree.h
+c000000004C5A4D3F0000000000008F14
+t1280986431
+s36628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2/libxml/xmlIO.h
+c000000004C5A4D3F00000000000028D0
+t1280986431
+s10448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2/libxml/xpath.h
+c000000004C5A4D3F0000000000003F47
+t1280986431
+s16199
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c000000004C5A4D3F0000000000004BF8
+t1280986431
+s19448
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.h
+c000000004BD1C1580000000000000A9A
+t1272037720
+s2714
+i"CXMLNode.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m
+c000000004BD1C1580000000000001BF7
+t1272037720
+s7159
+i"CXMLDocument.h"
+i<libxml/parser.h>
+i"CXMLNode_PrivateExtensions.h"
+i"CXMLElement.h"
+i"CTidy.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument_PrivateExtensions.h
+c000000004BD1C15800000000000005FE
+t1272037720
+s1534
+i"CXMLDocument.h"
+i<libxml/parser.h>
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument_PrivateExtensions.m
+c000000004BD1C158000000000000067A
+t1272037720
+s1658
+i"CXMLDocument_PrivateExtensions.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement.h
+c000000004BD1C158000000000000078C
+t1272037720
+s1932
+i"CXMLNode.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement.m
+c000000004BD1C158000000000000112F
+t1272037720
+s4399
+i"CXMLElement.h"
+i"CXMLNode_PrivateExtensions.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement_CreationExtensions.h
+c000000004BD1C158000000000000059D
+t1272037720
+s1437
+i"CXMLElement.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement_CreationExtensions.m
+c000000004BD1C1580000000000000850
+t1272037720
+s2128
+i"CXMLElement_CreationExtensions.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement_ElementTreeExtensions.h
+c000000004BD1C1580000000000000580
+t1272037720
+s1408
+i"CXMLElement.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement_ElementTreeExtensions.m
+c000000004BD1C1580000000000000668
+t1272037720
+s1640
+i"CXMLElement_ElementTreeExtensions.h"
+i"CXMLElement_CreationExtensions.h"
+i"CXMLNode_CreationExtensions.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode.h
+c000000004BD1C1580000000000000B07
+t1272037720
+s2823
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode.m
+c000000004BD1C1580000000000002257
+t1272037720
+s8791
+i"CXMLNode.h"
+i"CXMLNode_PrivateExtensions.h"
+i"CXMLDocument.h"
+i"CXMLElement.h"
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+i<libxml/xmlIO.h>
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode_PrivateExtensions.h
+c000000004BD1C1580000000000000624
+t1272037720
+s1572
+i"CXMLNode.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode_PrivateExtensions.m
+c000000004BD1C1580000000000000A9F
+t1272037720
+s2719
+i"CXMLNode_PrivateExtensions.h"
+i"CXMLElement.h"
+i"CXMLDocument_PrivateExtensions.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode_XPathExtensions.h
+c000000004BD1C15800000000000005FC
+t1272037720
+s1532
+i"CXMLNode.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode_XPathExtensions.m
+c000000004BD1C1580000000000000B1C
+t1272037720
+s2844
+i"CXMLNode_XPathExtensions.h"
+i"CXMLDocument.h"
+i"CXMLNode_PrivateExtensions.h"
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/Creation/CXMLDocument_CreationExtensions.h
+c000000004BD1C1580000000000000814
+t1272037720
+s2068
+i"CXMLDocument.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/Creation/CXMLDocument_CreationExtensions.m
+c000000004BD1C1580000000000000720
+t1272037720
+s1824
+i"CXMLDocument_CreationExtensions.h"
+i"CXMLElement.h"
+i"CXMLNode_PrivateExtensions.h"
+i"CXMLDocument_PrivateExtensions.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/Creation/CXMLNode_CreationExtensions.h
+c000000004BD1C1580000000000000954
+t1272037720
+s2388
+i"CXMLNode.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/Creation/CXMLNode_CreationExtensions.m
+c000000004BD1C1580000000000000FE7
+t1272037720
+s4071
+i"CXMLNode_CreationExtensions.h"
+i"CXMLDocument.h"
+i"CXMLElement.h"
+i"CXMLNode_PrivateExtensions.h"
+i"CXMLDocument_PrivateExtensions.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/ExcelltechAppsController.h
+c000000004B94D1140000000000000185
+t1268044052
+s389
+i<UIKit/UIKit.h>
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/ExcelltechAppsController.mm
+c000000004C4E38B40000000000001F97
+t1280194740
+s8087
+i"ExcelltechAppsController.h"
+i"nicerideAppDelegate.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.h
+c000000004C8EA8A3000000000000032D
+t1284417699
+s813
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKMapView.h>
+i"TouchXML.h"
+i"MyAnnotation.h"
+i<CoreLocation/CoreLocation.h>
+i<CoreLocation/CLLocationManagerDelegate.h>
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m
+c000000004C8EA8A300000000000031A6
+t1284417699
+s12710
+i"MainViewController.h"
+i"nicerideAppDelegate.h"
+i"MyPinAnnotationView.h"
+i"MyAnnotation.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/MyAnnotation.h
+c000000004C521AF400000000000003F5
+t1280449268
+s1013
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/MyAnnotation.m
+c000000004C8EA8A30000000000000478
+t1284417699
+s1144
+i"MyAnnotation.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/MyPinAnnotationView.h
+c000000004A6D492500000000000000C1
+t1248676133
+s193
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/MyPinAnnotationView.m
+c000000004A6D4925000000000000022A
+t1248676133
+s554
+i"MyPinAnnotationView.h"
+i<UIKit/UIKit.h>
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/SecondViewController.h
+c000000004C51E085000000000000061D
+t1280434309
+s1565
+i<UIKit/UIKit.h>
+i"ExcelltechAppsController.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/SecondViewController.m
+c000000004C8EA8A30000000000001BD9
+t1284417699
+s7129
+i"SecondViewController.h"
+i"nicerideAppDelegate.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/Tidy/CTidy.h
+c000000004BD1C1580000000000000762
+t1272037720
+s1890
+i<Foundation/Foundation.h>
+i"tidy.h"
+i"buffio.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/Tidy/CTidy.m
+c000000004BD1C1580000000000001D6D
+t1272037720
+s7533
+i"CTidy.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/TouchXML.h
+c000000004BD1C15800000000000005F3
+t1272037720
+s1523
+i"CXMLDocument.h"
+i"CXMLDocument_CreationExtensions.h"
+i"CXMLElement.h"
+i"CXMLElement_CreationExtensions.h"
+i"CXMLElement_ElementTreeExtensions.h"
+i"CXMLNode.h"
+i"CXMLNode_CreationExtensions.h"
+i"CXMLNode_XPathExtensions.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/nicerideAppDelegate.h
+c000000004C8EA8A300000000000003DF
+t1284417699
+s991
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"TouchXML.h"
+i<AVFoundation/AVFoundation.h>
+
+N/Users/williaed/Nice-Ride-Project/niceride/Classes/nicerideAppDelegate.m
+c000000004C8EA8A30000000000003312
+t1284417699
+s13074
+i"nicerideAppDelegate.h"
+i"MainViewController.h"
+i"SecondViewController.h"
+
+N/Users/williaed/Nice-Ride-Project/niceride/MainWindow.xib
+c000000004C8EA8A3000000000000FB65
+t1284417699
+s64357
+
+N/Users/williaed/Nice-Ride-Project/niceride/ScreenSnapz.png
+c000000004C4D1B7100000000000033A2
+t1280121713
+s13218
+
+N/Users/williaed/Nice-Ride-Project/niceride/activated.png
+c000000004C4CE74F000000000000029D
+t1280108367
+s669
+
+N/Users/williaed/Nice-Ride-Project/niceride/apps.xib
+c000000004C4E360700000000000063B8
+t1280194055
+s25528
+
+N/Users/williaed/Nice-Ride-Project/niceride/arrowL.png
+c000000004A1EEFDA0000000000000521
+t1243541466
+s1313
+
+N/Users/williaed/Nice-Ride-Project/niceride/arrowR.png
+c000000004A1EEFE90000000000000551
+t1243541481
+s1361
+
+N/Users/williaed/Nice-Ride-Project/niceride/back.png
+c000000004C506FE1000000000000045D
+t1280339937
+s1117
+
+N/Users/williaed/Nice-Ride-Project/niceride/background.png
+c000000004C506EB10000000000022047
+t1280339633
+s139335
+
+N/Users/williaed/Nice-Ride-Project/niceride/bevel.png
+c000000004C4D1E6800000000000001C6
+t1280122472
+s454
+
+N/Users/williaed/Nice-Ride-Project/niceride/blocked.png
+c000000004C4CE75D000000000000028D
+t1280108381
+s653
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app
+t1289855098
+s850
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app.dSYM
+t1289855098
+s102
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/Info.plist
+t1289855068
+s624
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/MainWindow.nib
+t1289855079
+s10109
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/PkgInfo
+t1289855068
+s8
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/ScreenSnapz.png
+t1289855069
+s13218
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/activated.png
+t1289855069
+s669
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/apps.nib
+t1289855078
+s4456
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/arrowL.png
+t1289855069
+s1313
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/arrowR.png
+t1289855069
+s1361
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/back.png
+t1289855078
+s1117
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/background.png
+t1289855078
+s139335
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/bevel.png
+t1289855069
+s454
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/blocked.png
+t1289855069
+s653
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/buttonnice.png
+t1289855078
+s9970
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/buttonnice2.png
+t1289855078
+s12136
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/cashregisterx.wav
+t1289855078
+s26540
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/circl137x35.png
+t1289855069
+s2844
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/logo.png
+t1289855069
+s11006
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/niceride
+t1289855097
+s120728
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/niceride57.png
+t1289855078
+s2121
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/special_event.png
+t1289855069
+s671
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/stationmap.png
+t1289855078
+s2937
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/tab4.png
+t1289855078
+s1877
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/upcoming.png
+t1289855069
+s699
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CTidy.o
+t1289855093
+s3940
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLDocument.o
+t1289855094
+s25340
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLDocument_CreationExtensions.o
+t1289855093
+s10820
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLDocument_PrivateExtensions.o
+t1289855094
+s9768
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLElement.o
+t1289855094
+s14132
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLElement_CreationExtensions.o
+t1289855094
+s13308
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLElement_ElementTreeExtensions.o
+t1289855094
+s9524
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode.o
+t1289855093
+s38800
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode_CreationExtensions.o
+t1289855093
+s18952
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode_PrivateExtensions.o
+t1289855094
+s14396
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode_XPathExtensions.o
+t1289855093
+s16980
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/ExcelltechAppsController.o
+t1289855094
+s68124
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/MainViewController.o
+t1289855093
+s71868
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/MyAnnotation.o
+t1289855094
+s48156
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/MyPinAnnotationView.o
+t1289855094
+s36580
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/SecondViewController.o
+t1289855094
+s80064
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/main.o
+t1289855092
+s6312
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/niceride.LinkFileList
+c000000004CE1A05C0000000000000A19
+t1289855068
+s2585
+
+N/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/nicerideAppDelegate.o
+t1289855093
+s83484
+
+N/Users/williaed/Nice-Ride-Project/niceride/buttonnice.png
+c000000004C50710200000000000026F2
+t1280340226
+s9970
+
+N/Users/williaed/Nice-Ride-Project/niceride/buttonnice2.png
+c000000004C5071720000000000002F68
+t1280340338
+s12136
+
+N/Users/williaed/Nice-Ride-Project/niceride/cashregisterx.wav
+c000000004C51E89000000000000067AC
+t1280436368
+s26540
+
+N/Users/williaed/Nice-Ride-Project/niceride/circl137x35.png
+c000000004BE31E990000000000000B1C
+t1273175705
+s2844
+
+N/Users/williaed/Nice-Ride-Project/niceride/logo.png
+c000000004C507F730000000000002AFE
+t1280343923
+s11006
+
+N/Users/williaed/Nice-Ride-Project/niceride/main.m
+c000000004C4B758D0000000000000169
+t1280013709
+s361
+i<UIKit/UIKit.h>
+
+N/Users/williaed/Nice-Ride-Project/niceride/niceride57.png
+c000000004C5086E20000000000000849
+t1280345826
+s2121
+
+N/Users/williaed/Nice-Ride-Project/niceride/niceride_Prefix.pch
+c000000004C4B758D00000000000000B9
+t1280013709
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/williaed/Nice-Ride-Project/niceride/special_event.png
+c000000004C4CE757000000000000029F
+t1280108375
+s671
+
+N/Users/williaed/Nice-Ride-Project/niceride/stationmap.png
+c000000004C4E40B30000000000000B79
+t1280196787
+s2937
+
+N/Users/williaed/Nice-Ride-Project/niceride/tab4.png
+c000000004B2ADA760000000000000755
+t1261099638
+s1877
+
+N/Users/williaed/Nice-Ride-Project/niceride/upcoming.png
+c000000004C4CE75400000000000002BB
+t1280108372
+s699
+
+N/var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch.gch
+t1289855088
+s15240208
+
+N/var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-ffnfbhyhnazahgaquwgimezzoxtk/niceride_Prefix.pch.gch
+t1289855091
+s16255888
+
+Nniceride-Info.plist
+c000000004C8EA8A40000000000000375
+t1284417700
+s885
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311547865#311547868#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CTidy.o /Users/williaed/Nice-Ride-Project/niceride/Classes/Tidy/CTidy.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547893.642294
+e311547893.698360
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CTidy.o
+x/Users/williaed/Nice-Ride-Project/niceride/Classes/Tidy/CTidy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/williaed/Nice-Ride-Project/niceride/Classes/Tidy/CTidy.m311547893#311547893#0(0"0(0#0#63"/Users/williaed/Nice-Ride-Project/niceride/Classes/Tidy/CTidy.m8604069536#2099"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/Classes/Tidy/CTidy.m -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CTidy.o0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLDocument.o /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547894.104389
+e311547894.258341
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLDocument.o
+x/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m: In function '-[CXMLDocument XMLStringWithOptions:]':
+o/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m:229: warning: no '-_XMLStringWithOptions:appendingToString:' method found
+o/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m:229: warning: (Messages without a matching method signature
+o/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m:229: warning: will be assumed to return 'id' and accept
+o/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m:229: warning: '...' as arguments.)
+lSLF07#2@73"Compile /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m311547894#311547894#0(609"/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m: In function '-[CXMLDocument XMLStringWithOptions:]':/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m:229: warning: no '-_XMLStringWithOptions:appendingToString:' method found/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m:229: warning: (Messages without a matching method signature/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m:229: warning: will be assumed to return 'id' and accept/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m:229: warning: '...' as arguments.)2(22@59"No '-_XMLStringWithOptions:appendingToString:' method found311547894#120#140#0(6@65"/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m293730520#229#0#229#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)311547894#260#126#0(6@65"/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m293730520#229#0#229#0#0"0(0#0#65"/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m8603090976#2108"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument.m -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLDocument.o0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLDocument_CreationExtensions.o /Users/williaed/Nice-Ride-Project/niceride/Classes/Creation/CXMLDocument_CreationExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547893.650841
+e311547893.744581
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLDocument_CreationExtensions.o
+x/Users/williaed/Nice-Ride-Project/niceride/Classes/Creation/CXMLDocument_CreationExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/williaed/Nice-Ride-Project/niceride/Classes/Creation/CXMLDocument_CreationExtensions.m311547893#311547893#0(0"0(0#0#93"/Users/williaed/Nice-Ride-Project/niceride/Classes/Creation/CXMLDocument_CreationExtensions.m8600316416#2155"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/Classes/Creation/CXMLDocument_CreationExtensions.m -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLDocument_CreationExtensions.o0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLDocument_PrivateExtensions.o /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument_PrivateExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547894.214625
+e311547894.327577
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLDocument_PrivateExtensions.o
+x/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument_PrivateExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument_PrivateExtensions.m311547894#311547894#0(0"0(0#0#83"/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument_PrivateExtensions.m8604796896#2144"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLDocument_PrivateExtensions.m -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLDocument_PrivateExtensions.o0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLElement.o /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547893.975292
+e311547894.103417
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLElement.o
+x/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement.m311547893#311547894#0(0"0(0#0#64"/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement.m8606684704#2106"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement.m -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLElement.o0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLElement_CreationExtensions.o /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement_CreationExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547894.103488
+e311547894.214547
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLElement_CreationExtensions.o
+x/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement_CreationExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement_CreationExtensions.m311547894#311547894#0(0"0(0#0#83"/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement_CreationExtensions.m8602498976#2144"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement_CreationExtensions.m -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLElement_CreationExtensions.o0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLElement_ElementTreeExtensions.o /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement_ElementTreeExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547894.023960
+e311547894.103174
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLElement_ElementTreeExtensions.o
+x/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement_ElementTreeExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement_ElementTreeExtensions.m311547894#311547894#0(0"0(0#0#86"/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement_ElementTreeExtensions.m8606017920#2150"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLElement_ElementTreeExtensions.m -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLElement_ElementTreeExtensions.o0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode.o /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547893.744678
+e311547893.975210
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode.o
+x/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode.m311547893#311547893#0(0"0(0#0#61"/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode.m8605650112#2100"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode.m -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode.o0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode_CreationExtensions.o /Users/williaed/Nice-Ride-Project/niceride/Classes/Creation/CXMLNode_CreationExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547893.698452
+e311547893.821691
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode_CreationExtensions.o
+x/Users/williaed/Nice-Ride-Project/niceride/Classes/Creation/CXMLNode_CreationExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/williaed/Nice-Ride-Project/niceride/Classes/Creation/CXMLNode_CreationExtensions.m311547893#311547893#0(0"0(0#0#89"/Users/williaed/Nice-Ride-Project/niceride/Classes/Creation/CXMLNode_CreationExtensions.m8608087648#2147"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/Classes/Creation/CXMLNode_CreationExtensions.m -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode_CreationExtensions.o0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode_PrivateExtensions.o /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode_PrivateExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547893.911491
+e311547894.023868
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode_PrivateExtensions.o
+x/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode_PrivateExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode_PrivateExtensions.m311547893#311547894#0(0"0(0#0#79"/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode_PrivateExtensions.m8604869568#2136"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode_PrivateExtensions.m -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode_PrivateExtensions.o0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode_XPathExtensions.o /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode_XPathExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547893.821785
+e311547893.911352
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode_XPathExtensions.o
+x/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode_XPathExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode_XPathExtensions.m311547893#311547893#0(0"0(0#0#77"/Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode_XPathExtensions.m8606668736#2132"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/Classes/CXMLNode_XPathExtensions.m -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/CXMLNode_XPathExtensions.o0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/ExcelltechAppsController.o /Users/williaed/Nice-Ride-Project/niceride/Classes/ExcelltechAppsController.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s311547894.629421
+e311547894.979732
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/ExcelltechAppsController.o
+x/Users/williaed/Nice-Ride-Project/niceride/Classes/ExcelltechAppsController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/williaed/Nice-Ride-Project/niceride/Classes/ExcelltechAppsController.mm311547894#311547894#0(0"0(0#0#78"/Users/williaed/Nice-Ride-Project/niceride/Classes/ExcelltechAppsController.mm8605770912#2154"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-ffnfbhyhnazahgaquwgimezzoxtk/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/Classes/ExcelltechAppsController.mm -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/ExcelltechAppsController.o0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/MainViewController.o /Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547892.555811
+e311547893.642210
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/MainViewController.o
+x/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m: In function '-[MainViewController mapView:viewForAnnotation:]':
+o/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m:60: warning: local declaration of 'mapView' hides instance variable
+o/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m:69: warning: local declaration of 'mapView' hides instance variable
+o/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m:111: warning: local declaration of 'mapView' hides instance variable
+o/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m:154: warning: local declaration of 'mapView' hides instance variable
+o/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m:198: warning: local declaration of 'mapView' hides instance variable
+lSLF07#2@79"Compile /Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m311547892#311547893#0(840"/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m: In function '-[MainViewController mapView:viewForAnnotation:]':/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m:60: warning: local declaration of 'mapView' hides instance variable/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m:69: warning: local declaration of 'mapView' hides instance variable/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m:111: warning: local declaration of 'mapView' hides instance variable/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m:154: warning: local declaration of 'mapView' hides instance variable/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m:198: warning: local declaration of 'mapView' hides instance variable5(22@54"Local declaration of 'mapView' hides instance variable311547893#137#140#0(6@71"/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m306110499#60#0#60#0#0"0(22@54"Local declaration of 'mapView' hides instance variable311547893#277#140#0(6@71"/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m306110499#69#0#69#0#0"0(22@54"Local declaration of 'mapView' hides instance variable311547893#417#141#0(6@71"/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m306110499#111#0#111#0#0"0(22@54"Local declaration of 'mapView' hides instance variable311547893#558#141#0(6@71"/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m306110499#154#0#154#0#0"0(22@54"Local declaration of 'mapView' hides instance variable311547893#699#141#0(6@71"/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m306110499#198#0#198#0#0"0(0#0#71"/Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m8608376384#2120"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/Classes/MainViewController.m -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/MyAnnotation.o /Users/williaed/Nice-Ride-Project/niceride/Classes/MyAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547894.258426
+e311547894.372732
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/MyAnnotation.o
+x/Users/williaed/Nice-Ride-Project/niceride/Classes/MyAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/williaed/Nice-Ride-Project/niceride/Classes/MyAnnotation.m311547894#311547894#0(0"0(0#0#65"/Users/williaed/Nice-Ride-Project/niceride/Classes/MyAnnotation.m8605338048#2108"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/Classes/MyAnnotation.m -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/MyAnnotation.o0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/MyPinAnnotationView.o /Users/williaed/Nice-Ride-Project/niceride/Classes/MyPinAnnotationView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547894.327667
+e311547894.416005
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/MyPinAnnotationView.o
+x/Users/williaed/Nice-Ride-Project/niceride/Classes/MyPinAnnotationView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/williaed/Nice-Ride-Project/niceride/Classes/MyPinAnnotationView.m311547894#311547894#0(0"0(0#0#72"/Users/williaed/Nice-Ride-Project/niceride/Classes/MyPinAnnotationView.m8606042496#2122"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/Classes/MyPinAnnotationView.m -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/MyPinAnnotationView.o0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/SecondViewController.o /Users/williaed/Nice-Ride-Project/niceride/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547894.372821
+e311547894.629334
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/SecondViewController.o
+x/Users/williaed/Nice-Ride-Project/niceride/Classes/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/williaed/Nice-Ride-Project/niceride/Classes/SecondViewController.m311547894#311547894#0(0"0(0#0#73"/Users/williaed/Nice-Ride-Project/niceride/Classes/SecondViewController.m8604460384#2124"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/Classes/SecondViewController.m -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/SecondViewController.o0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/main.o /Users/williaed/Nice-Ride-Project/niceride/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547891.873975
+e311547892.555625
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/main.o
+x/Users/williaed/Nice-Ride-Project/niceride/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/williaed/Nice-Ride-Project/niceride/main.m311547891#311547892#0(0"0(0#0#49"/Users/williaed/Nice-Ride-Project/niceride/main.m8605256960#2084"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/main.m -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/main.o0#
+
+CCompileC build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/nicerideAppDelegate.o /Users/williaed/Nice-Ride-Project/niceride/Classes/nicerideAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547891.925256
+e311547893.650750
+r1
+xCompileC
+xbuild/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/nicerideAppDelegate.o
+x/Users/williaed/Nice-Ride-Project/niceride/Classes/nicerideAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/williaed/Nice-Ride-Project/niceride/Classes/nicerideAppDelegate.m311547891#311547893#0(0"0(0#0#72"/Users/williaed/Nice-Ride-Project/niceride/Classes/nicerideAppDelegate.m8604434240#2122"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -include /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch -c /Users/williaed/Nice-Ride-Project/niceride/Classes/nicerideAppDelegate.m -o /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/nicerideAppDelegate.o0#
+
+CCompileXIB /Users/williaed/Nice-Ride-Project/niceride/MainWindow.xib
+s311547868.626530
+e311547879.585580
+r1
+xCompileXIB
+x/Users/williaed/Nice-Ride-Project/niceride/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+o/* com.apple.ibtool.document.warnings */
+o/Users/williaed/Nice-Ride-Project/niceride/MainWindow.xib:43: warning: This label has its minimum font size set to a size that is greater than its current font size.
+o/Users/williaed/Nice-Ride-Project/niceride/MainWindow.xib:40: warning: This label has its minimum font size set to a size that is greater than its current font size.
+lSLF07#2@25"CompileXIB MainWindow.xib311547868#311547879#0(877"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)/* com.apple.ibtool.document.warnings *//Users/williaed/Nice-Ride-Project/niceride/MainWindow.xib:43: warning: This label has its minimum font size set to a size that is greater than its current font size./Users/williaed/Nice-Ride-Project/niceride/MainWindow.xib:40: warning: This label has its minimum font size set to a size that is greater than its current font size.2(22@94"This label has its minimum font size set to a size that is greater than its current font size.311547879#18446744073709551615#0#0(6@57"/Users/williaed/Nice-Ride-Project/niceride/MainWindow.xib306110499#43#0#43#0#0"0(22@94"This label has its minimum font size set to a size that is greater than its current font size.311547879#18446744073709551615#0#0(6@57"/Users/williaed/Nice-Ride-Project/niceride/MainWindow.xib306110499#40#0#40#0#0"0(0#0#57"/Users/williaed/Nice-Ride-Project/niceride/MainWindow.xib8605473408#583"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/MainWindow.nib /Users/williaed/Nice-Ride-Project/niceride/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/williaed/Nice-Ride-Project/niceride/apps.xib
+s311547869.908788
+e311547878.287988
+r1
+xCompileXIB
+x/Users/williaed/Nice-Ride-Project/niceride/apps.xib
+lSLF07#2@19"CompileXIB apps.xib311547869#311547878#0(0"0(0#0#51"/Users/williaed/Nice-Ride-Project/niceride/apps.xib8606300192#571"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/apps.nib /Users/williaed/Nice-Ride-Project/niceride/apps.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/ScreenSnapz.png ScreenSnapz.png
+s311547868.658393
+e311547869.914731
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/ScreenSnapz.png
+xScreenSnapz.png
+lSLF07#2@20"Copy ScreenSnapz.png311547868#311547869#0(0"0(0#0#58"/Users/williaed/Nice-Ride-Project/niceride/ScreenSnapz.png8605817408#472"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/ScreenSnapz.png /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/activated.png activated.png
+s311547868.656392
+e311547869.912239
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/activated.png
+xactivated.png
+lSLF07#2@18"Copy activated.png311547868#311547869#0(0"0(0#0#56"/Users/williaed/Nice-Ride-Project/niceride/activated.png8605064288#470"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/activated.png /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/arrowL.png arrowL.png
+s311547868.660129
+e311547869.915905
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/arrowL.png
+xarrowL.png
+lSLF07#2@15"Copy arrowL.png311547868#311547869#0(0"0(0#0#53"/Users/williaed/Nice-Ride-Project/niceride/arrowL.png8602753280#467"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/arrowL.png /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/arrowR.png arrowR.png
+s311547868.659618
+e311547869.913862
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/arrowR.png
+xarrowR.png
+lSLF07#2@15"Copy arrowR.png311547868#311547869#0(0"0(0#0#53"/Users/williaed/Nice-Ride-Project/niceride/arrowR.png8606186496#467"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/arrowR.png /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/back.png back.png
+s311547878.349743
+e311547878.367207
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/back.png
+xback.png
+lSLF07#2@13"Copy back.png311547878#311547878#0(0"0(0#0#51"/Users/williaed/Nice-Ride-Project/niceride/back.png8608197632#465"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/back.png /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/background.png background.png
+s311547878.349221
+e311547878.662141
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/background.png
+xbackground.png
+lSLF07#2@19"Copy background.png311547878#311547878#0(0"0(0#0#57"/Users/williaed/Nice-Ride-Project/niceride/background.png8603944704#471"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/background.png /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/bevel.png bevel.png
+s311547868.659001
+e311547869.913732
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/bevel.png
+xbevel.png
+lSLF07#2@14"Copy bevel.png311547868#311547869#0(0"0(0#0#52"/Users/williaed/Nice-Ride-Project/niceride/bevel.png8608258112#466"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/bevel.png /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/blocked.png blocked.png
+s311547868.652307
+e311547869.907179
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/blocked.png
+xblocked.png
+lSLF07#2@16"Copy blocked.png311547868#311547869#0(0"0(0#0#54"/Users/williaed/Nice-Ride-Project/niceride/blocked.png8605378912#468"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/blocked.png /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/buttonnice.png buttonnice.png
+s311547878.351222
+e311547878.374561
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/buttonnice.png
+xbuttonnice.png
+lSLF07#2@19"Copy buttonnice.png311547878#311547878#0(0"0(0#0#57"/Users/williaed/Nice-Ride-Project/niceride/buttonnice.png8607900672#471"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/buttonnice.png /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/buttonnice2.png buttonnice2.png
+s311547878.352733
+e311547878.371479
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/buttonnice2.png
+xbuttonnice2.png
+lSLF07#2@20"Copy buttonnice2.png311547878#311547878#0(0"0(0#0#58"/Users/williaed/Nice-Ride-Project/niceride/buttonnice2.png8606349184#472"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/buttonnice2.png /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/cashregisterx.wav cashregisterx.wav
+s311547878.354663
+e311547878.497385
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/cashregisterx.wav
+xcashregisterx.wav
+lSLF07#2@22"Copy cashregisterx.wav311547878#311547878#0(0"0(0#0#60"/Users/williaed/Nice-Ride-Project/niceride/cashregisterx.wav8605474880#474"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/cashregisterx.wav /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/circl137x35.png circl137x35.png
+s311547869.607746
+e311547869.968299
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/circl137x35.png
+xcircl137x35.png
+lSLF07#2@20"Copy circl137x35.png311547869#311547869#0(0"0(0#0#58"/Users/williaed/Nice-Ride-Project/niceride/circl137x35.png14355739211923508#472"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/circl137x35.png /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/logo.png logo.png
+s311547868.657800
+e311547869.907284
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/logo.png
+xlogo.png
+lSLF07#2@13"Copy logo.png311547868#311547869#0(0"0(0#0#51"/Users/williaed/Nice-Ride-Project/niceride/logo.png8606055360#465"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/logo.png /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/niceride57.png niceride57.png
+s311547878.353251
+e311547878.372089
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/niceride57.png
+xniceride57.png
+lSLF07#2@19"Copy niceride57.png311547878#311547878#0(0"0(0#0#57"/Users/williaed/Nice-Ride-Project/niceride/niceride57.png8605932768#471"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/niceride57.png /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/special_event.png special_event.png
+s311547868.653451
+e311547869.607669
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/special_event.png
+xspecial_event.png
+lSLF07#2@22"Copy special_event.png311547868#311547869#0(0"0(0#0#60"/Users/williaed/Nice-Ride-Project/niceride/special_event.png8605328544#474"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/special_event.png /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/stationmap.png stationmap.png
+s311547878.288164
+e311547878.365242
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/stationmap.png
+xstationmap.png
+lSLF07#2@19"Copy stationmap.png311547878#311547878#0(0"0(0#0#57"/Users/williaed/Nice-Ride-Project/niceride/stationmap.png8605915008#471"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/stationmap.png /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/tab4.png tab4.png
+s311547878.348277
+e311547878.372325
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/tab4.png
+xtab4.png
+lSLF07#2@13"Copy tab4.png311547878#311547878#0(0"0(0#0#51"/Users/williaed/Nice-Ride-Project/niceride/tab4.png8605275008#465"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/tab4.png /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CCpResource build/Debug-iphonesimulator/niceride.app/upcoming.png upcoming.png
+s311547868.655089
+e311547869.915320
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/niceride.app/upcoming.png
+xupcoming.png
+lSLF07#2@17"Copy upcoming.png311547868#311547869#0(0"0(0#0#55"/Users/williaed/Nice-Ride-Project/niceride/upcoming.png8605162080#469"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/williaed/Nice-Ride-Project/niceride/upcoming.png /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
+CGenerateDSYMFile /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app.dSYM /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/niceride
+s311547897.780536
+e311547898.403688
+r1
+xGenerateDSYMFile
+x/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app.dSYM
+x/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/niceride
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/niceride.app.dSYM build/Debug-iphonesimulator/niceride.app/niceride311547897#311547898#0(0"0(0#0#92"/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/niceride8605738144#398"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/niceride -o /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app.dSYM0#
+
+CLd /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/niceride normal i386
+s311547894.979809
+e311547897.780392
+r1
+xLd
+x/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/niceride
+xnormal
+xi386
+lSLF07#2@97"Link /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/niceride311547894#311547898#0(0"0(0#0#0"8606225152#998"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -filelist /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/Objects-normal/i386/niceride.LinkFileList -mmacosx-version-min=10.6 -lxml2 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -framework AVFoundation -o /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/niceride0#
+
+CProcessInfoPlistFile /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/Info.plist niceride-Info.plist
+s311547868.547398
+e311547868.626447
+r1
+xProcessInfoPlistFile
+x/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/Info.plist
+xniceride-Info.plist
+lSLF07#2@27"Process niceride-Info.plist311547868#311547868#0(0"0(0#0#62"/Users/williaed/Nice-Ride-Project/niceride/niceride-Info.plist12666816341278818#494"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility niceride-Info.plist -genpkginfo /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app/Info.plist0#
+
+CProcessPCH /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch.gch niceride_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311547879.623534
+e311547890.951402
+r1
+xProcessPCH
+x/var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch.gch
+xniceride_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile niceride_Prefix.pch311547879#311547890#0(0"0(0#0#62"/Users/williaed/Nice-Ride-Project/niceride/niceride_Prefix.pch8605358912#1971"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -c /Users/williaed/Nice-Ride-Project/niceride/niceride_Prefix.pch -o /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-dkzsguhtsnswkmathrkdnoyzzlri/niceride_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-ffnfbhyhnazahgaquwgimezzoxtk/niceride_Prefix.pch.gch niceride_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s311547879.624519
+e311547891.873876
+r1
+xProcessPCH++
+x/var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-ffnfbhyhnazahgaquwgimezzoxtk/niceride_Prefix.pch.gch
+xniceride_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile niceride_Prefix.pch311547879#311547891#0(0"0(0#0#62"/Users/williaed/Nice-Ride-Project/niceride/niceride_Prefix.pch8603869536#1992"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-generated-files.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-own-target-headers.hmap -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-all-target-headers.hmap -iquote /Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/niceride-project-headers.hmap -F/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator -I/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources/i386 -I/Users/williaed/Nice-Ride-Project/niceride/build/niceride.build/Debug-iphonesimulator/niceride.build/DerivedSources -c /Users/williaed/Nice-Ride-Project/niceride/niceride_Prefix.pch -o /var/folders/Xm/XmgcvVXgHiygYMfpdpuiyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/niceride_Prefix-ffnfbhyhnazahgaquwgimezzoxtk/niceride_Prefix.pch.gch0#
+
+CTouch /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app
+s311547898.403773
+e311547898.626129
+r1
+xTouch
+x/Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app
+lSLF07#2@89"Touch /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app311547898#311547898#0(0"0(0#0#0"8606504224#287"    cd /Users/williaed/Nice-Ride-Project/niceride    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/williaed/Nice-Ride-Project/niceride/build/Debug-iphonesimulator/niceride.app0#
+
