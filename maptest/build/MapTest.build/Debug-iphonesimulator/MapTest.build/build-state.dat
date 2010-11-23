@@ -1,0 +1,303 @@
+TMapTest
+v7
+r0
+t311644704.591394
+cCheck dependencies
+cProcessInfoPlistFile /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/Info.plist MapTest-Info.plist
+cCompileXIB /Users/williaed/Documents/apps/MapTest/MainWindow.xib
+cCompileXIB /Users/williaed/Documents/apps/MapTest/MapTestViewController.xib
+cProcessPCH /var/folders/ns/nsdqVExxEq4vlPkL+mKlKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ddxpzsgeapfzcmciiyyijhqstvbh/MapTest_Prefix.pch.gch MapTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/main.o /Users/williaed/Documents/apps/MapTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestAppDelegate.o /Users/williaed/Documents/apps/MapTest/Classes/MapTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestViewController.o /Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MyAnnotation.o /Users/williaed/Documents/apps/MapTest/Classes/MyAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest normal i386
+cGenerateDSYMFile /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app.dSYM /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest
+cTouch /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C0F25400000000000000132
+t1276060992
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/williaed/Documents/apps/MapTest/Classes/MapTestAppDelegate.h
+c000000004CE3110F00000000000001DF
+t1289949455
+s479
+i<UIKit/UIKit.h>
+
+N/Users/williaed/Documents/apps/MapTest/Classes/MapTestAppDelegate.m
+c000000004CE3110F0000000000000A8B
+t1289949455
+s2699
+i"MapTestAppDelegate.h"
+i"MapTestViewController.h"
+
+N/Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.h
+c000000004CE3143A000000000000013E
+t1289950266
+s318
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m
+c000000004CE31A7A0000000000000B1D
+t1289951866
+s2845
+i"MapTestViewController.h"
+i"MyAnnotation.h"
+
+N/Users/williaed/Documents/apps/MapTest/Classes/MyAnnotation.h
+c000000004CE1851200000000000003F5
+t1289848082
+s1013
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/williaed/Documents/apps/MapTest/Classes/MyAnnotation.m
+c000000004CE185120000000000000478
+t1289848082
+s1144
+i"MyAnnotation.h"
+
+N/Users/williaed/Documents/apps/MapTest/MainWindow.xib
+c000000004CE3110F0000000000004E29
+t1289949455
+s20009
+
+N/Users/williaed/Documents/apps/MapTest/MapTestViewController.xib
+c000000004CE3133800000000000053F1
+t1289950008
+s21489
+
+N/Users/williaed/Documents/apps/MapTest/MapTest_Prefix.pch
+c000000004CE3110F00000000000000B7
+t1289949455
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app
+t1289951904
+s238
+
+N/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app.dSYM
+t1289951904
+s102
+
+N/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/Info.plist
+t1289951902
+s591
+
+N/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/MainWindow.nib
+t1289951903
+s1123
+
+N/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest
+t1289951904
+s25960
+
+N/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTestViewController.nib
+t1289951903
+s2152
+
+N/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/PkgInfo
+t1289951902
+s8
+
+N/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTest.LinkFileList
+c000000004CE31A9E000000000000020F
+t1289951902
+s527
+
+N/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestAppDelegate.o
+t1289951904
+s48584
+
+N/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestViewController.o
+t1289951904
+s43132
+
+N/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MyAnnotation.o
+t1289951904
+s48096
+
+N/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/main.o
+t1289951904
+s6304
+
+N/Users/williaed/Documents/apps/MapTest/main.m
+c000000004CE3110F0000000000000169
+t1289949455
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/ns/nsdqVExxEq4vlPkL+mKlKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ddxpzsgeapfzcmciiyyijhqstvbh/MapTest_Prefix.pch.gch
+t1289951904
+s15232016
+
+NMapTest-Info.plist
+c000000004CE3110F000000000000038D
+t1289949455
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311644702#311644702#0(0"0(0#1#0"8628580992#0"0#
+
+CCompileC build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestAppDelegate.o /Users/williaed/Documents/apps/MapTest/Classes/MapTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311644704.303595
+e311644704.416929
+r1
+xCompileC
+xbuild/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestAppDelegate.o
+x/Users/williaed/Documents/apps/MapTest/Classes/MapTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/williaed/Documents/apps/MapTest/Classes/MapTestAppDelegate.m311644704#311644704#0(0"0(0#0#67"/Users/williaed/Documents/apps/MapTest/Classes/MapTestAppDelegate.m8626072480#1937"    cd /Users/williaed/Documents/apps/MapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-generated-files.hmap -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-own-target-headers.hmap -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-all-target-headers.hmap -iquote /Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-project-headers.hmap -F/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator -I/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/include -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources/i386 -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources -include /var/folders/ns/nsdqVExxEq4vlPkL+mKlKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ddxpzsgeapfzcmciiyyijhqstvbh/MapTest_Prefix.pch -c /Users/williaed/Documents/apps/MapTest/Classes/MapTestAppDelegate.m -o /Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestAppDelegate.o0#
+
+CCompileC build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestViewController.o /Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311644704.372901
+e311644704.501519
+r1
+xCompileC
+xbuild/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestViewController.o
+x/Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m: In function '-[MapTestViewController mapView:viewForAnnotation:]':
+o/Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m:17: warning: local declaration of 'mapView' hides instance variable
+o/Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m:25: warning: local declaration of 'mapView' hides instance variable
+o/Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m:25: warning: incompatible Objective-C types initializing 'struct MKAnnotationView *', expected 'struct MKPinAnnotationView *'
+lSLF07#2@78"Compile /Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m311644704#311644704#0(614"/Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m: In function '-[MapTestViewController mapView:viewForAnnotation:]':/Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m:17: warning: local declaration of 'mapView' hides instance variable/Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m:25: warning: local declaration of 'mapView' hides instance variable/Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m:25: warning: incompatible Objective-C types initializing 'struct MKAnnotationView *', expected 'struct MKPinAnnotationView *'3(22@54"Local declaration of 'mapView' hides instance variable311644704#139#139#0(6@70"/Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m311644666#17#0#17#0#0"0(22@54"Local declaration of 'mapView' hides instance variable311644704#278#139#0(6@70"/Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m311644666#25#0#25#0#0"0(22@112"Incompatible Objective-C types initializing 'struct MKAnnotationView *', expected 'struct MKPinAnnotationView *'311644704#417#197#0(6@70"/Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m311644666#25#0#25#0#61"incompatible Objective-C types initializing '*', expected '*'0(0#0#70"/Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m8628633408#1943"    cd /Users/williaed/Documents/apps/MapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-generated-files.hmap -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-own-target-headers.hmap -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-all-target-headers.hmap -iquote /Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-project-headers.hmap -F/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator -I/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/include -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources/i386 -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources -include /var/folders/ns/nsdqVExxEq4vlPkL+mKlKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ddxpzsgeapfzcmciiyyijhqstvbh/MapTest_Prefix.pch -c /Users/williaed/Documents/apps/MapTest/Classes/MapTestViewController.m -o /Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTestViewController.o0#
+
+CCompileC build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MyAnnotation.o /Users/williaed/Documents/apps/MapTest/Classes/MyAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311644704.417244
+e311644704.533053
+r1
+xCompileC
+xbuild/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MyAnnotation.o
+x/Users/williaed/Documents/apps/MapTest/Classes/MyAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/williaed/Documents/apps/MapTest/Classes/MyAnnotation.m311644704#311644704#0(0"0(0#0#61"/Users/williaed/Documents/apps/MapTest/Classes/MyAnnotation.m8626322528#1925"    cd /Users/williaed/Documents/apps/MapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-generated-files.hmap -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-own-target-headers.hmap -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-all-target-headers.hmap -iquote /Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-project-headers.hmap -F/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator -I/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/include -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources/i386 -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources -include /var/folders/ns/nsdqVExxEq4vlPkL+mKlKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ddxpzsgeapfzcmciiyyijhqstvbh/MapTest_Prefix.pch -c /Users/williaed/Documents/apps/MapTest/Classes/MyAnnotation.m -o /Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MyAnnotation.o0#
+
+CCompileC build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/main.o /Users/williaed/Documents/apps/MapTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311644704.302137
+e311644704.372767
+r1
+xCompileC
+xbuild/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/main.o
+x/Users/williaed/Documents/apps/MapTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/williaed/Documents/apps/MapTest/main.m311644704#311644704#0(0"0(0#0#45"/Users/williaed/Documents/apps/MapTest/main.m8625680928#1901"    cd /Users/williaed/Documents/apps/MapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-generated-files.hmap -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-own-target-headers.hmap -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-all-target-headers.hmap -iquote /Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-project-headers.hmap -F/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator -I/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/include -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources/i386 -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources -include /var/folders/ns/nsdqVExxEq4vlPkL+mKlKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ddxpzsgeapfzcmciiyyijhqstvbh/MapTest_Prefix.pch -c /Users/williaed/Documents/apps/MapTest/main.m -o /Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/williaed/Documents/apps/MapTest/MainWindow.xib
+s311644702.415991
+e311644703.085493
+r1
+xCompileXIB
+x/Users/williaed/Documents/apps/MapTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311644702#311644703#0(0"0(0#0#53"/Users/williaed/Documents/apps/MapTest/MainWindow.xib8626082976#570"    cd /Users/williaed/Documents/apps/MapTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/MainWindow.nib /Users/williaed/Documents/apps/MapTest/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/williaed/Documents/apps/MapTest/MapTestViewController.xib
+s311644702.421649
+e311644703.165597
+r1
+xCompileXIB
+x/Users/williaed/Documents/apps/MapTest/MapTestViewController.xib
+lSLF07#2@36"CompileXIB MapTestViewController.xib311644702#311644703#0(0"0(0#0#64"/Users/williaed/Documents/apps/MapTest/MapTestViewController.xib8628777728#592"    cd /Users/williaed/Documents/apps/MapTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTestViewController.nib /Users/williaed/Documents/apps/MapTest/MapTestViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app.dSYM /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest
+s311644704.563446
+e311644704.586756
+r1
+xGenerateDSYMFile
+x/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app.dSYM
+x/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/MapTest.app.dSYM build/Debug-iphonesimulator/MapTest.app/MapTest311644704#311644704#0(0"0(0#0#86"/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest8627080128#383"    cd /Users/williaed/Documents/apps/MapTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest -o /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app.dSYM0#
+
+CLd /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest normal i386
+s311644704.533177
+e311644704.563340
+r1
+xLd
+x/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest
+xnormal
+xi386
+lSLF07#2@91"Link /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest311644704#311644704#0(0"0(0#0#0"8628126080#918"    cd /Users/williaed/Documents/apps/MapTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator -F/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator -filelist /Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/Objects-normal/i386/MapTest.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/MapTest0#
+
+CProcessInfoPlistFile /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/Info.plist MapTest-Info.plist
+s311644702.400328
+e311644702.415876
+r1
+xProcessInfoPlistFile
+x/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/Info.plist
+xMapTest-Info.plist
+lSLF07#2@26"Process MapTest-Info.plist311644702#311644702#0(0"0(0#0#57"/Users/williaed/Documents/apps/MapTest/MapTest-Info.plist8626952672#479"    cd /Users/williaed/Documents/apps/MapTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MapTest-Info.plist -genpkginfo /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app/Info.plist0#
+
+CProcessPCH /var/folders/ns/nsdqVExxEq4vlPkL+mKlKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ddxpzsgeapfzcmciiyyijhqstvbh/MapTest_Prefix.pch.gch MapTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311644703.165772
+e311644704.301931
+r1
+xProcessPCH
+x/var/folders/ns/nsdqVExxEq4vlPkL+mKlKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ddxpzsgeapfzcmciiyyijhqstvbh/MapTest_Prefix.pch.gch
+xMapTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile MapTest_Prefix.pch311644703#311644704#0(0"0(0#0#57"/Users/williaed/Documents/apps/MapTest/MapTest_Prefix.pch8626480128#1793"    cd /Users/williaed/Documents/apps/MapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-generated-files.hmap -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-own-target-headers.hmap -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-all-target-headers.hmap -iquote /Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/MapTest-project-headers.hmap -F/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator -I/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/include -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources/i386 -I/Users/williaed/Documents/apps/MapTest/build/MapTest.build/Debug-iphonesimulator/MapTest.build/DerivedSources -c /Users/williaed/Documents/apps/MapTest/MapTest_Prefix.pch -o /var/folders/ns/nsdqVExxEq4vlPkL+mKlKU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapTest_Prefix-ddxpzsgeapfzcmciiyyijhqstvbh/MapTest_Prefix.pch.gch0#
+
+CTouch /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app
+s311644704.586864
+e311644704.591336
+r1
+xTouch
+x/Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app
+lSLF07#2@84"Touch /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app311644704#311644704#0(0"0(0#0#0"8626926112#278"    cd /Users/williaed/Documents/apps/MapTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/williaed/Documents/apps/MapTest/build/Debug-iphonesimulator/MapTest.app0#
+
